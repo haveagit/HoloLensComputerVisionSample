@@ -21,11 +21,11 @@ HoloLensで画像キャプチャを取得し、Computer Vision APIを呼び出�
 
 3.「read diary」と発話することでキーワード認識が発動し、今まで保存していたファイルを読み込んで表示します。
 
-# 注意点
+## 注意点
 
 1.AzureおよびComputer Vision API自体の操作、設定に関しては本PJ内では説明致しません。
 
 2.Capability SettingsのMicrophone,Webcam,Internet Clientは必須です。
 
-# 問い合わせ
+## 問い合わせ
 twitter [@morio36](https://twitter.com/morio36)
