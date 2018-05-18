@@ -26,3 +26,6 @@ HoloLensで画像キャプチャを取得し、Computer Vision APIを呼び出�
 1.AzureおよびComputer Vision API自体の操作、設定に関しては本PJ内では説明致しません。
 
 2.Capability SettingsのMicrophone,Webcam,Internet Clientは必須です。
+
+# 問い合わせ
+twitter [@morio36](https://twitter.com/morio36)
